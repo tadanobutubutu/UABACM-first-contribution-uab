@@ -39,7 +39,7 @@ Also notice how there is a little dash at the beginning
 - James Jester - Senior - Computer Science - [GitHub](https://github.com/francoisdillinger)
 - Kamya Patel - Senior - Computer Science - Mathematics - Management -[Github](https://github.com/kamyapatel)
 - Bryant Barrentine - Senior - Neuroscience - Computer Science - [GitHub](https://github.com/bnb0xffff)
-- Joel Garner - Senior - Computer Science - Creative Writing - [GitHub] https://github.com/joeltgarner
+- Joel Garner - Senior - Computer Science - Creative Writing - [GitHub](https://github.com/joeltgarner)
 - Skyler Bolton - Senior - Computer Science - Accounting, Information Systems - [Github](https://github.com/SkylerBolton07)
 - Hamid Choucha -Senior- Computer Science -[GitHub](https://github.com/hamidc10)
 - John Tompkins - Senior - Computer Science - [Github](https://github.com/Scithur)
@@ -75,4 +75,5 @@ Also notice how there is a little dash at the beginning
 - Anna Amissah - Senior - Computer Science - [GitHub](https://github.com/bumbleBeeDev)
 - Do Minh Duy - Freshman - Computer Science - [GitHub](https://github.com/dominhduy09)
 - Do not edit below this line.
+
 
