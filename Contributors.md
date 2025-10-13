@@ -74,4 +74,5 @@ Also notice how there is a little dash at the beginning
 - Jeremiah Steib - Freshman - Computer Science - [GitHUB](https://github.com/JtheMangaka)
 - Anna Amissah - Senior - Computer Science - [GitHub](https://github.com/bumbleBeeDev)
 - Do Minh Duy - Freshman - Computer Science - [GitHub](https://github.com/dominhduy09)
-Do not edit below this line.
+- Do not edit below this line.
+
